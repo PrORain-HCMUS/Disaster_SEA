@@ -1,0 +1,20 @@
+Level,Storm Name,Wind Speed (km/h),Consequences
+0,,< 1,Light wind.
+1,,> 1 - 5,No danger.
+2,,6 - 11,No danger.
+3,,12 - 19,
+4,,20 - 28,"Small trees begin to sway, impacts on drying crops."
+5,Low Pressure Zone,29 - 38,"Slightly rough sea. Fishing boats start to tilt, sails may need to be shortened."
+6,Tropical Depression,39 - 49,Trees shake. Difficult to walk against the wind. Rough seas.
+7,,50 - 61,Dangerous for boats.
+8,Storm,62 - 74,"Wind breaks tree branches, blows off roofs, damages homes. Impossible to walk against the wind."
+9,,75 - 88,Very rough seas. Extremely dangerous for boats.
+10,Strong Storm,89 - 102,"Uproots trees, damages houses, electricity poles. Heavy damage."
+11,,103 - 117,Violent seas. Sinks ships.
+12,,118 - 133,
+13,Very Strong Storm,134 - 149,Extremely destructive.
+14,,150 - 166,
+15,,167 - 183,Extremely strong waves. Sinks large ships.
+16,,184 - 201,
+17,Super Typhoon,202 - 220,
+>17,,> 220,
