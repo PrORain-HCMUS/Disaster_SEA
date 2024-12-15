@@ -20,6 +20,36 @@ EM-DAT is an important resource for researchers, governments, and international 
 
 We have conducted a version of this dataset on Kaggle: [Disaster-1](https://www.kaggle.com/datasets/hoangvu128/disaster-1  ), which consists of `attributes.csv` and `disaster_sea.xlsx`. These files are features' explanations and the main data, respectively.
 
+## About Installation
+
+To run this project, follow the steps below to set up the environment and install the necessary dependencies.
+
+### Prerequisites
+
+Ensure that you have the following installed:
+
+- **Python 3.5 or higher** (Check with `python --version` or `python3 --version`).
+- **Pip** (Python's package installer).
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/PrORain-HCMUS/Disaster_SEA
+cd https://github.com/PrORain-HCMUS/Disaster_SEA
+```
+
+### 2. Install essential dependencies from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Running the Notebook
+
+Once you have opened the main notebook `src\22120085_22120108_22120461.ipynb`, you can run the cells step by step by selecting the cell and pressing `Shift + Enter` or by using the `Run` button in the toolbar.
+
+Make sure to run all the necessary cells in order (from top to bottom) to ensure that the data is loaded, processed, and visualized correctly.
+
 ##  About the team:  
 We can proudly say that our project has full attendants of all 3 contributors as below:
 
