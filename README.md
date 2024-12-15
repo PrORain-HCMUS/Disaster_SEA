@@ -25,7 +25,7 @@ We can proudly say that our project has full attendants of all 3 contributors as
 
 |   | Contributor | Student ID | Github | Role | Completeness |
 |:------:|:-------:|:------|:------|:----------------|:-------------:|
-| 1 | Truong-Giang Tran | `22120008` | [jAIng18](https://github.com/jAIng18) | Gathering attributes | 100% |
+| 1 | Truong-Giang Tran | `22120085` | [jAIng18](https://github.com/jAIng18) | Gathering attributes | 100% |
 |   |  |  |  | Answering Question 1 & 2 | 100% |
 | 2 |  Dai-Hoa Le | `22120108` | [JustinHoa](https://github.com/JustinHoa) | Preparing Questions | 100% |
 |   |  |  |  | Answering Question 3 & 4 | 100% |
