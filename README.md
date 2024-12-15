@@ -31,3 +31,4 @@ We can proudly say that our project has full attendants of all 3 contributors as
 |   |  |  |  | Answering Question 3 & 4 | 100% |
 | 3 |  Hoang-Vu Le | `22120461` | [PrORain-HCMUS](https://github.com/PrORain-HCMUS) | Gathering Data | 100% |
 |   |  |  |  | Answering Question 5 & 6 | 100% |
+
