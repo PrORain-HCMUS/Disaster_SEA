@@ -44,7 +44,7 @@ cd https://github.com/PrORain-HCMUS/Disaster_SEA
 pip install -r requirements.txt
 ```
 
-### 4. Running the Notebook
+### 3. Running the Notebook
 
 Once you have opened the main notebook `src\22120085_22120108_22120461.ipynb`, you can run the cells step by step by selecting the cell and pressing `Shift + Enter` or by using the `Run` button in the toolbar.
 
